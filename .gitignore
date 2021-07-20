@@ -6,3 +6,7 @@
 /Demo.DotNetCoreAPI.JWTAuthentication/.vs/Demo.DotNetCoreAPI.JWTAuthentication/v16
 /Demo.DotNetCoreAPI.JWTAuthentication/bin/Debug/netcoreapp3.1
 /Demo.DotNetCoreAPI.JWTAuthentication/obj
+/Demo.DotNetCoreAPI.JWTAuthentication/.vs/Demo.DotNetCoreAPI.JWTAuthentication/DesignTimeBuild
+/DotNetCoreAPI.TokenAuthentication/.vs/DotNetCoreAPI.TokenAuthentication/v16
+/DotNetCoreAPI.TokenAuthentication/bin/Debug/netcoreapp3.1
+/DotNetCoreAPI.TokenAuthentication/obj
